@@ -1,5 +1,5 @@
 {
-  "name": "@librechat/frontend",
+  "name": "@celo/frontend",
   "version": "v0.8.1-rc1",
   "description": "",
   "type": "module",
@@ -27,7 +27,7 @@
   "bugs": {
     "url": "https://github.com/danny-avila/LibreChat/issues"
   },
-  "homepage": "https://librechat.ai",
+  "homepage": "https://celo.ai",
   "dependencies": {
     "@ariakit/react": "^0.4.15",
     "@ariakit/react-core": "^0.4.17",

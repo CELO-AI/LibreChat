@@ -1,7 +1,7 @@
 {
-  "name": "LibreChat",
-  "version": "v0.8.1-rc1",
-  "description": "",
+  "name": "celo",
+  "version": "0.8.1-rc1",
+  "description": "CELO - An open source chat application with support for multiple AI models",
   "workspaces": [
     "api",
     "client",

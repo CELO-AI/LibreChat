@@ -1,0 +1,22 @@
+app:
+  name: "CELO"
+  url: "https://celo.ai"
+  description: "Enterprise AI Chat"
+  title: "CELO - Enterprise AI"
+theme:
+  colors:
+    light:
+      "--brand-purple": "#ff6600" # CELO Orange
+      "--text-primary": "#000000"
+      "--surface-primary": "#ffffff"
+    dark:
+      "--brand-purple": "#ff6600" # CELO Orange
+      "--text-primary": "#ffffff"
+      "--surface-primary": "#1a1a1a"
+assets:
+  logo: "./assets/logo.png"
+  favicon: "./assets/favicon.ico"
+  manifest: "./assets/manifest.json"
+env:
+  APP_TITLE: "CELO"
+  CUSTOM_FOOTER: "[CELO v1.0](https://celo.ai) - Enterprise Edition"
